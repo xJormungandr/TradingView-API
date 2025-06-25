@@ -1,7 +1,5 @@
 node_modules/
 .env
-/.idea/misc.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
+/.idea
 /shelf/
 /workspace.xml
